@@ -1,0 +1,6 @@
+user-service
+server.port= 9001 	
+
+contact-service
+server.port=9002
+
